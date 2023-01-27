@@ -4,11 +4,20 @@
 
 
 ## Hi , i´m Thomas Casco
-## Full Stack Developer 👨‍💻
+## Mobile Developer And FrontEnd Developer👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-ThomasCasco-blue)](https://www.linkedin.com/in/thom%C3%A1s-casco-43b4491a3/)
 [![](https://img.shields.io/badge/Gmail-thomas.s.casco@gmail.com-red)](mailto:thomas.s.casco@gmail.com)
+![](https://img.shields.io/badge/Android-Developer-brightgreen) ![](https://img.shields.io/badge/Kotlin-Lover-blueviolet) ![](https://img.shields.io/badge/Java-Enthusiast-yellow)
 
+- 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+
+#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/thomas_casco)
+
+
+<br />
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -17,9 +26,9 @@ const ashraf = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
+        mobileApp: ["Kotlin","JetPack"],
         backEnd: ["nodejs", "express"],
         fronEnd: ["Javascript", "React", "Next"],
-        mobileApp: ["Kotlin","JetPack"],
         misc: ["Firebase", "Socket.IO"]
 }
 ```
